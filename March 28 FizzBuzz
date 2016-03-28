@@ -1,0 +1,12 @@
+groot = range(1,101)
+def divisible (input):
+    for x in input:
+        if x % 3 == 0:
+            print "Fizz"
+
+        elif x % 5 == 0:
+            print "Buzz"
+
+        if x % 15 == 0:
+            print "FizzBuzz"
+divisible(groot)
