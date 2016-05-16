@@ -1,0 +1,15 @@
+user_profile = {
+'name': 'Jorge Perez',
+'Age': 16,
+'birthday': "August"-15-1999,
+'email': 'jorge.perez@ms223.org',
+'Where are you from?': 'Japan',
+'Number of siblings': '3',
+'Skills': 'I could make beats',
+'About you': 'I fart in computer science all the time',
+'favorite quote': 'The harder you fall, the higher you bounce - Douglas Horton',
+'favorite movie': 'Wallace and Gromit The Curse of The Were-Rabbit',
+'favorites musician': 'Avicii',
+'favorite TV shows': 'none',
+'favorite book': ''
+}
